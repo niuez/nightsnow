@@ -28,6 +28,7 @@ local colors = {
   snow0 = "#d1cbc2",
   snow1 = "#bab3a9",
   snow2 = "#85827e",
+  snow3 = "#63615e",
   light = "#e3c395",
   info = "#a6b0ad",
   warning = "#e3c395",
