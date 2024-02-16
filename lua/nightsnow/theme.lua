@@ -470,6 +470,7 @@ theme.set_highlights = function()
   hl(0, "MarkSignNumHL", { fg = c.lightedsky, bg = c.nightsky })
   hl(0, "MarkVirtTextHL", { fg = c.lightedsky, bg = c.nightsky })
   
+  hl(0, "@variable", { link = "Variable" })
   hl(0, "@type", { link = "Type" })
   hl(0, "@type.builtin", { link = "Type" })
   hl(0, "@type.definition", { link = "Type" })
