@@ -22,7 +22,7 @@
 -- @syntax-cursor-line: fade(@syntax-selection, 26%); // needs to be semi-transparent to show search results
 --
 local colors = {
-  snow2 = "#2c313a",
+  snow2 = "#525966",
   nightsky = "#d1cbc2",
   lightedsky = "#4a4846",
   -- B2T_B3 = "#d1cbc2",
